@@ -66,7 +66,7 @@ export default function Hero() {
 
           <div className="relative h-[420px] sm:h-[520px] rounded-2xl border border-black/5 bg-white/60 shadow-inner backdrop-blur">
             <Spline
-              scene="https://prod.spline.design/4cHQr84zOGAHOehh/scene.splinecode"
+              scene="https://prod.spline.design/EF7JOSsHLk16Tlw9/scene.splinecode"
               style={{ width: '100%', height: '100%' }}
             />
           </div>
